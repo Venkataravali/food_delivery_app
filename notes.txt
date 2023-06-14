@@ -1,0 +1,19 @@
+ * With the help of README file we can push into github.
+*  If we need to give explanation about client and server sperately need 
+to create sep README files.
+
+to configure git :
+git config  --global user.name "first_name last_name"
+git config  --global user.email "your email " 
+
+once after intialize repository it will show all readme files we have created .
+if they showing u they haven't commited they are ready to push into github 
+now need to update the readme file and connect our remote repo.
+
+```
+node --version
+To check node version 
+```
+
+
+
